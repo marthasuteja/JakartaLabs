@@ -1,0 +1,1 @@
+{"uuid":"8f5bd017-9675-4441-8660-6991d8990f2d","name":"qaautomation.march2022.BaseWebTestTugas4.setUp","description":"","start":1652062844785,"stop":1652062859119,"children":["72d2a030-0d9f-4d83-9a8d-cac55f31bbad"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1652062844786,"stop":1652062859118}]}
